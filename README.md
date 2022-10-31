@@ -85,3 +85,21 @@
 Продукт должен являться Web-приложением и иметь user-friendly интерфейс. Front-end часть должна быть создана средствами HTML/CSS. Серверная часть должна быть написана на Java Servlets API.
 
 <a name="user_interface"/>
+
+## 2.2 Интерфейс пользователя
+Окно входа в приложение.  
+![Окно входа в приложение](mockups/Enter_paige.jpg)
+
+Окно регистрации нового пользователя.  
+![Окно регистрации нового пользователя](mockups/Registration_paige.jpg)  
+
+Главное окно приложения.  
+![Главное окно приложения](mockups/Main_paige.jpg)  
+
+Окно выбора режима игры.
+![Окно выбора режима игры](mockups/Сhoice_paige.jpg)
+
+Окно правил игры.
+![Окно правил игры](mockups/Karkasson_rules1.jpg)(mockups/Karkasson_rules2.jpg))
+
+<a name="user_specifications"/>
