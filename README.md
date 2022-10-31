@@ -105,5 +105,5 @@
 
 Продолжение правил игры.
 
-![продолжение правил игры](mockups/Karkasson_rules2.jpg)
+![Продолжение правил игры](mockups/Karkasson_rules2.jpg)
 <a name="user_specifications"/>
