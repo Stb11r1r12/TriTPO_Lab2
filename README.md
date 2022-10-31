@@ -102,3 +102,11 @@
 Окно правил игры.
 ![Окно правил игры](mockups/Karkasson_rules1.jpg)
 ![Окно правил игры](mockups/Karkasson_rules2.jpg)
+
+<a name="user_specifications"/>
+
+## 2.3 Характеристики пользователей
+
+<a name="user_classes"/>
+
+### 2.3.1 Классы пользователей
