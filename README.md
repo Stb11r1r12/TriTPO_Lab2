@@ -97,7 +97,7 @@
 ![Главное окно приложения](mockups/Main_paige.jpg)  
 
 Окно выбора режима игры.
-![Окно выбора режима игры](mockups/Сhoice_paige.jpg)
+![Окно выбора режима игры](mockups/Choice_paige.jpg)
 
 Окно правил игры.
 ![Окно правил игры](mockups/Karkasson_rules1.jpg)(mockups/Karkasson_rules2.jpg))
