@@ -105,4 +105,4 @@
 Продолжение правил игры.
 ![Продолжение правил игры](mockups/Karkasson_rules2.jpg)
 
-<a name="user_specifications"/>
+
