@@ -101,6 +101,9 @@
 
 Окно правил игры.
 
-![Окно правил игры](mockups/Karkasson_rules1.jpg),(mockups/Karkasson_rules2.jpg)
+![Окно правил игры](mockups/Karkasson_rules1.jpg)
 
+Продолжение правил игры.
+
+![продолжение правил игры](mockups/Karkasson_rules2.jpg)
 <a name="user_specifications"/>
