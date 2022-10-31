@@ -100,6 +100,5 @@
 ![Окно выбора режима игры](mockups/Choice_paige.jpg)
 
 Окно правил игры.
-![Окно правил игры](mockups/Karkasson_rules1.jpg)(mockups/Karkasson_rules2.jpg)
-
-
+![Окно правил игры](mockups/Karkasson_rules1.jpg)
+![Окно правил игры](mockups/Karkasson_rules2.jpg)
